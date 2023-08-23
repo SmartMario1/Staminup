@@ -1,0 +1,29 @@
+{
+  "Title": "Staminup",
+  "Type": "addon",
+  "Org": "smartmario",
+  "Ident": "staminup",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": "\nsounds/staminuptime.mp3\nui/weapons/Staminup.png",
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [
+    "thieves.terrortown",
+    "greg.v_t7_perk_bottle",
+    "facepunch.beer_bottle"
+  ],
+  "EditorReferences": null,
+  "Metadata": {
+    "CsProjName": "",
+    "PrimaryAsset": "",
+    "PhysicsMins": "-1,-1,-1",
+    "PhysicsMaxs": "1,1,1",
+    "RenderMins": "-1,-1,-1",
+    "RenderMaxs": "-1,-1,-1",
+    "ParentPackage": "thieves.terrortown"
+  }
+}

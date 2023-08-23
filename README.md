@@ -1,0 +1,2 @@
+# staminup
+ Staminup asset
